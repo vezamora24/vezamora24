@@ -2,7 +2,7 @@
 
 20+ years localizing faults across layered production infrastructure — Cisco networking, network flow telemetry (SevOne NPM), Kubernetes-orchestrated multi-tenant systems, and distributed tracing (Jaeger). Bilingual EN/ES.
 
-🔭 Currently learning: eBPF & Cilium networking, Python, and applied generative AI
+🔭 *Currently learning*: eBPF & Cilium networking, Python, and applied generative AI
 
 These repositories serve as a public portfolio documenting both my methodical troubleshooting approach and my learning projects.
 
@@ -33,7 +33,7 @@ vezamora24@gmail.com
 
 www.linkedin.com/in/vicentezamora
 
-M.Sc. Information Networking, Carnegie Mellon University
+*M.Sc. Information Networking, Carnegie Mellon University*
 
 <!--
 **vezamora24/vezamora24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
