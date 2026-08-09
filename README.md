@@ -1,11 +1,15 @@
-## Hi there 👋
+Vince Zamora — Tier-3 Escalation Engineer | Enterprise Telemetry → Cloud-Native Observability
+
+20+ years localizing faults across layered production infrastructure — Cisco networking, network flow telemetry (SevOne NPM), Kubernetes-orchestrated multi-tenant systems, and distributed tracing (Jaeger).
+
+🔭 Currently learning: eBPF & Cilium networking, Python, and applied generative AI
 
 <!--
 **vezamora24/vezamora24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
