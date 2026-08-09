@@ -20,12 +20,17 @@ These repositories serve as a public portfolio documenting both my methodical tr
 **Planned Projects**
 
 Kubernetes-Incident-Lab: A series of intentionally broken cluster scenarios focused on CNI, API-server, and storage failures
+
 Network-Troubleshooting-Playbook: Methodical case studies on packet capture and flow-telemetry analysis
+
 Cisco-Data-Center-Notes: Structured learning artifacts on NX-OS, EVPN fabrics, and microsegmentation
+
 Python-learning: Projects, learning artifacts and notes on learning Python as a Systems Engineer
 
 **Connect with me**
+
 vezamora24@gmail.com
+
 www.linkedin.com/in/vicentezamora
 
 M.Sc. Information Networking, Carnegie Mellon University
