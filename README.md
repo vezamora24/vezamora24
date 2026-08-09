@@ -6,7 +6,7 @@
 
 These repositories serve as a public portfolio documenting both my methodical troubleshooting approach and my learning projects.
 
-### **Tech stack and Tools**
+🧰 ### **Tech stack and Tools**
 
 **Infrastructure**: VMWare vSphere, Cisco Networking, Infrastructure as Code (IaC), Terraform/Ansible
 
@@ -17,7 +17,7 @@ These repositories serve as a public portfolio documenting both my methodical tr
 **Systems**: Linux (RHEL/CentOS), Bash Scripting, UNIX, Windows
 
 
-### **Planned Projects**
+📌 ### **Planned Projects**
 
 **Kubernetes-Incident-Lab**: A series of intentionally broken cluster scenarios focused on CNI, API-server, and storage failures
 
@@ -27,13 +27,13 @@ These repositories serve as a public portfolio documenting both my methodical tr
 
 **Python-learning**: Projects, learning artifacts and notes on learning Python as a Systems Engineer
 
-### **Connect with me**
+📬 ### **Connect with me**
 
-vezamora24@gmail.com
+:email: vezamora24@gmail.com
 
-www.linkedin.com/in/vicentezamora
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/vicentezamora)
 
-*M.Sc. Information Networking, Carnegie Mellon University*
+🎓 *M.Sc. Information Networking, Carnegie Mellon University*
 
 <!--
 **vezamora24/vezamora24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
