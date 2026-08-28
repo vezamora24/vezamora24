@@ -1,51 +1,47 @@
-## **Vince Zamora : Tier-3 Escalation Engineer | Enterprise Telemetry → Cloud-Native Observability**
+## **Vince Zamora — Tier-3 Escalation Engineer | Enterprise Telemetry → Cloud-Native Observability**
 
-20+ years localizing faults across layered production infrastructure — Cisco networking, network flow telemetry (SevOne NPM), Kubernetes-orchestrated multi-tenant systems, and distributed tracing (Jaeger). Bilingual EN/ES.
+I'm a systems engineer with over 20 years supporting enterprise production environments, most recently 11 years owning Tier-3 escalations for a network performance monitoring platform used by a global customer base. I work in Kubernetes-orchestrated, multi-tenant production environments, diagnosing distributed-system failures across cloud-native stacks. A core part of my experience has been acting as the technical liaison between enterprise customers and Product Engineering/R&D, translating field issues into structured, reproducible reports that drive root-cause resolution. Bilingual EN/ES.
 
-🔭 *Currently learning*: eBPF & Cilium networking, Python, and applied generative AI
+🔭 **Current focus**: Deepening my Kubernetes expertise toward CKA certification, building applied AI/ML fluency, and learning Python to extend both.
 
-These repositories serve as a public portfolio documenting both my methodical troubleshooting approach and my learning projects.
+These repositories are a public portfolio documenting both my troubleshooting methodology and my Python learning projects.
 
-### 🧰 **Tech stack and Tools**
+### 🧰 Tech Stack and Tools
 
-**Infrastructure**: VMWare vSphere, Cisco Networking, Infrastructure as Code (IaC), Terraform/Ansible
+**Cloud-native**: Kubernetes, Docker, Podman, distributed systems
 
-**Cloud-native**: Kubernetes, Podman
+**Infrastructure**: VMware vSphere, network infrastructure, Infrastructure as Code (Terraform/Ansible), Azure
 
-**Observability**: SevOne NPM, Netflow/IPFIX, Wireshark/PCAP
+**Version control**: Git, GitHub
 
-**Systems**: Linux (RHEL/CentOS), Bash Scripting, UNIX, Windows
+**Tools**: VS Code
 
+**Observability**: SevOne NPM, NetFlow/IPFIX, distributed tracing (Jaeger), Wireshark/PCAP
 
-### 📌 **Planned Projects**
+**AI/ML**: Applied AI fundamentals (IBM AI Academy, Google Gen AI Leadership Certificate in progress)
 
-**Kubernetes-Incident-Lab**: A series of intentionally broken cluster scenarios focused on CNI, API-server, and storage failures
+**Systems**: Linux (RHEL/CentOS), Bash scripting, UNIX, Windows
 
-**Network-Troubleshooting-Playbook**: Methodical case studies on packet capture and flow-telemetry analysis
+**Databases**: MySQL, MariaDB, Oracle DBMS
 
-**Cisco-Data-Center-Notes**: Structured learning artifacts on NX-OS, EVPN fabrics, and microsegmentation
+**Support tooling**: Jira, Salesforce, Zendesk
 
-**Python-learning**: Projects, learning artifacts and notes on learning Python as a Systems Engineer
+**Learning**: Python
 
-### 📬 **Connect with me**
+### 📌 Projects
 
-:email: vezamora24@gmail.com
+**kubernetes-incident-lab** — Intentionally broken cluster scenarios focused on CNI, API-server, and storage failures, documented with diagnostic steps and resolution notes.
 
-🔗 https://www.linkedin.com/in/vicentezamora
+**network-troubleshooting-playbook** *(planned)* — Methodical case studies on packet capture and flow-telemetry analysis, based on realistic (non-proprietary) scenarios.
 
-🎓 *M.Sc. Information Networking, Carnegie Mellon University*
+**service-health-checker** *(planned)* — CLI tool that parses sample telemetry and flags sustained latency, packet loss, and utilization anomalies.
 
-<!--
-**vezamora24/vezamora24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**reliability-triage-assistant** *(planned)* — Guided CLI that walks through a scenario-specific runbook and generates an incident record.
 
-Here are some ideas to get you started:
+### 📬 Connect With Me
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 vezamora24@gmail.com
+
+🔗 [linkedin.com/in/vicentezamora](https://www.linkedin.com/in/vicentezamora)
+
+🎓 M.Sc. Information Networking, Carnegie Mellon University · B.Sc. Computer Systems Engineering, ITESM
