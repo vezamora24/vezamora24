@@ -38,6 +38,9 @@ These repositories are a public portfolio documenting both my troubleshooting me
 
 **reliability-triage-assistant** *(planned)* — Guided CLI that walks through a scenario-specific runbook and generates an incident record.
 
+## 😂 Random joke!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ### 📬 Connect With Me
 
 📧 vezamora24@gmail.com
