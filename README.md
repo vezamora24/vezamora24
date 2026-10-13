@@ -10,7 +10,7 @@ These repositories are a public portfolio documenting both my troubleshooting me
 
 **Cloud-native**: Kubernetes, Docker, Podman, distributed systems
 
-**Infrastructure**: VMware vSphere, network infrastructure, Infrastructure as Code (Terraform/Ansible), Azure
+**Infrastructure**: VMware vSphere, network infrastructure, Azure
 
 **Version control**: Git, GitHub
 
@@ -38,9 +38,6 @@ These repositories are a public portfolio documenting both my troubleshooting me
 
 **reliability-triage-assistant** *(planned)* — Guided CLI that walks through a scenario-specific runbook and generates an incident record.
 
-## 😂 Random joke!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### 📬 Connect With Me
 
 📧 vezamora24@gmail.com
@@ -48,3 +45,6 @@ These repositories are a public portfolio documenting both my troubleshooting me
 🔗 [linkedin.com/in/vicentezamora](https://www.linkedin.com/in/vicentezamora)
 
 🎓 M.Sc. Information Networking, Carnegie Mellon University · B.Sc. Computer Systems Engineering, ITESM
+
+## 😂 Random joke!
+![Jokes Card](https://readme-jokes.vercel.app/api)
